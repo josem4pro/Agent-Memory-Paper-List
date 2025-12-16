@@ -1,12 +1,19 @@
-# Memory in the Age of AI Agents: A Survey
+<!-- # Memory in the Age of AI Agents: A Survey -->
 
+<h1 align="center">
+  <strong>Memory in the Age of AI Agents: A Survey</strong>
+</h1>
+
+<div align="center">
 [![arXiv](https://img.shields.io/badge/Arxiv-Memory_in_the_Age_of_AI_Agents-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2512.13564)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Memory_in_the_Age_of_AI_Agents-292929.svg?logo=huggingface)](https://huggingface.co/papers/2512.13564)
+<br>
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List/pulls)
 [![GitHub star chart](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List?style=social)](https://star-history.com/#Shichun-Liu/Agent-Memory-Paper-List)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
+</div>
 
-## 📖 Introduction
+## Introduction
 
 <div align="center">
   <img src="assets/main.png" alt="Overview of agent memory organized by the unified taxonomy" />
