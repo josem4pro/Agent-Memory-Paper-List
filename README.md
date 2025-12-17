@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="assets/main.png" alt="Overview of agent memory organized by the unified taxonomy" />
-  <p><em>Figure: Overview of agent memory organized by the unified taxonomy of <strong>forms</strong>, <strong>functions</strong>, and <strong>dynamics</strong>. The diagram positions memory artifacts by their dominant form and primary function. It further maps representative systems into this taxonomy to provide a consolidated landscape.</em></p>
+  <p><em><strong>Figure:</strong> Overview of agent memory organized by the unified taxonomy of <strong>forms</strong>, <strong>functions</strong>, and <strong>dynamics</strong>.</em></p>
 </div>
 
 
@@ -37,7 +37,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 
 <div align="center">
 <img src="assets/concept.png" alt="Conceptual Comparison" />
-  <p><em>Conceptual comparison of <strong>Agent Memory</strong> with <strong>LLM Memory</strong>, <strong>RAG</strong>, and <strong>Context Engineering</strong>. The diagram illustrates shared technical implementations while highlighting fundamental distinctions: unlike the architectural optimizations of LLM Memory, the static knowledge access of RAG, or the transient resource management of Context Engineering, Agent Memory is uniquely characterized by its focus on maintaining a persistent and self-evolving cognitive state that integrates factual knowledge and experience.</em></p>
+  <p><em><strong>Figure:</strong> Conceptual comparison of <strong>Agent Memory</strong> with <strong>LLM Memory</strong>, <strong>RAG</strong>, and <strong>Context Engineering</strong>.</em></p>
 </div>
 
 
