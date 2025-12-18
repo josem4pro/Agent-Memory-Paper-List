@@ -218,6 +218,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/10] DeepAgent: A General Reasoning Agent with Scalable Toolsets. [[paper](https://doi.org/10.48550/arXiv.2510.21618)]
 - [2025/10] ACON: Optimizing Context Compression for Long-Horizon LLM Agents. [[paper](https://doi.org/10.48550/arXiv.2510.00615)]
 - [2025/09] ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization. [[paper](https://doi.org/10.48550/ARXIV.2509.13313)]
+- [2025/08] Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management. [[paper](https://arxiv.org/abs/2508.04664)]
 - [2025/07] MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent. [[paper](https://arxiv.org/abs/2507.02259)]
 - [2024/10] Agent S: An Open Agentic Framework That Uses Computers Like a Human. [[paper](https://arxiv.org/abs/2410.08164)]
 
