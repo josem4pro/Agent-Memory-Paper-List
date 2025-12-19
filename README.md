@@ -14,14 +14,19 @@
 
 </div>
 
+## 📢 News
 
-## Introduction
+- [2025/12/16] 🎉 Our paper is featured on [Huggingface Daily Paper #1](https://huggingface.co/papers/date/2025-12-16)!
+- [2025/12/16] 📚 We create this repository to maintain a paper list on Agent Memory. More papers are coming soon!
+- [2025/12/16] 📄 Our survey is released! See [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564) for the paper!
+
 
 <div align="center">
-  <img src="assets/main.png" alt="Overview of agent memory organized by the unified taxonomy" />
+  <img src="assets/main.png" alt="Overview of agent memory organized by the unified taxonomy" width="80%" />
   <p><em><strong>Figure:</strong> Overview of agent memory organized by the unified taxonomy of <strong>forms</strong>, <strong>functions</strong>, and <strong>dynamics</strong>.</em></p>
 </div>
 
+## Introduction
 
 Memory serves as the cornerstone of foundation model-based agents, underpinning their ability to perform long-horizon reasoning, adapt continually, and interact effectively with complex environments.
 
@@ -36,7 +41,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ## Conceptual comparison
 
 <div align="center">
-<img src="assets/concept.png" alt="Conceptual Comparison" />
+<img src="assets/concept.png" alt="Conceptual Comparison" width="80%" />
   <p><em><strong>Figure:</strong> Conceptual comparison of <strong>Agent Memory</strong> with <strong>LLM Memory</strong>, <strong>RAG</strong>, and <strong>Context Engineering</strong>.</em></p>
 </div>
 
