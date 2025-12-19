@@ -18,7 +18,7 @@
 
 - [2025/12/16] 🎉 Our paper is featured on [Huggingface Daily Paper #1](https://huggingface.co/papers/date/2025-12-16)!
 - [2025/12/16] 📚 We create this repository to maintain a paper list on Agent Memory. More papers are coming soon!
-- [2025/12/16] 📄 Our survey is released! See [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564) for the paper!
+- [2025/12/16] 📄 Our survey is released! See [Memory in the Age of AI Agents: A Survey](https://arxiv.org/abs/2512.13564) for the paper!
 
 
 <div align="center">
@@ -26,7 +26,7 @@
   <p><em><strong>Figure:</strong> Overview of agent memory organized by the unified taxonomy of <strong>forms</strong>, <strong>functions</strong>, and <strong>dynamics</strong>.</em></p>
 </div>
 
-## Introduction
+## 👋 Introduction
 
 Memory serves as the cornerstone of foundation model-based agents, underpinning their ability to perform long-horizon reasoning, adapt continually, and interact effectively with complex environments.
 
@@ -38,7 +38,7 @@ Despite the explosion of research in this field, the landscape remains highly fr
 
 Through this structure, we hope to provide a conceptual foundation for rethinking memory as a first-class primitive in future agentic intelligence.
 
-## Conceptual comparison
+## 💡 Concepts
 
 <div align="center">
 <img src="assets/concept.png" alt="Conceptual Comparison" width="80%" />
@@ -46,7 +46,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 </div>
 
 
-## Paper list
+## 📚 Paper list
 
 ### Factual Memory
 
@@ -255,3 +255,15 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2023/06] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models. [[paper](http://papers.nips.cc/paper_files/paper/2023/hash/6ceefa7b15572587b78ecfcebb2827f8-Abstract-Conference.html)]
 - [2022/08] Memorizing Transformers. [[paper](https://openreview.net/forum?id=TrjbxzRcnf-)]
 - [2022/07] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model. [[paper](https://arxiv.org/abs/2207.07115)]
+
+## 📖 Citation
+
+If you find this repository helpful, a citation to our paper would be greatly appreciated:
+
+```bibtex
+@article{hu2025memory,
+  title={Memory in the Age of AI Agents},
+  author={Hu, Yuyang and Liu, Shichun and Yue, Yanwei and Zhang, Guibin and Liu, Boyang and Zhu, Fangyi and Lin, Jiahang and Guo, Honglin and Dou, Shihan and Xi, Zhiheng and Jin, Senjie and Tan, Jiejun and Yin, Yanbin and Liu, Jiongnan and Zhang, Zeyu and Sun, Zhongxiang and Zhu, Yutao and Sun, Hao and Peng, Boci and Cheng, Zhenrong and Fan, Xuanbo and Guo, Jiaxin and Yu, Xinlei and Zhou, Zhenhong and Hu, Zewen and Huo, Jiahao and Wang, Junhao and Niu, Yuwei and Wang, Yu and Yin, Zhenfei and Hu, Xiaobin and Liao, Yue and Li, Qiankun and Wang, Kun and Zhou, Wangchunshu and Liu, Yixin and Cheng, Dawei and Zhang, Qi and Gui, Tao and Pan, Shirui and Zhang, Yan and Torr, Philip and Dou, Zhicheng and Wen, Ji-Rong and Huang, Xuanjing and Jiang, Yu-Gang and Yan, Shuicheng},
+  journal={arXiv preprint arXiv:2512.13564},
+  year={2025}
+}
