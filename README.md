@@ -233,6 +233,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 
 #### Latent
 
+- [2025/11] VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models [[paper](https://arxiv.org/abs/2511.11007)]
 - [2025/09] MemGen: Weaving Generative Latent Memory for Self-Evolving Agents. [[paper](https://arxiv.org/abs/2509.24704)]
 - [2025/09] Conflict-Aware Soft Prompting for Retrieval-Augmented Generation. [[paper](https://doi.org/10.48550/arXiv.2508.15253)]
 - [2025/09] MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation. [[paper](https://doi.org/10.48550/arXiv.2508.19236)]
