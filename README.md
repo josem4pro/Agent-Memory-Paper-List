@@ -51,8 +51,18 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Factual Memory
 
 #### Token-level
-
+- [2026/01] Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning. [[paper](https://www.arxiv.org/abs/2601.04726)]
+- [2026/01] MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents. [[paper](https://arxiv.org/abs/2601.03236)]
+- [2026/01] EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning. [[paper](https://www.arxiv.org/abs/2601.02163)]
+- [2025/12] From Context to EDUs: Faithful and Structured Context Compression via Elementary Discourse Unit Decomposition. [[paper](https://arxiv.org/abs/2512.14244)]
+- [2025/12] MemVerse: Multimodal Memory for Lifelong Learning Agents. [[paper](https://arxiv.org/abs/2512.03627)]
+- [2025/12] MMAG: Mixed Memory-Augmented Generation for Large Language Models Applications. [[paper](https://arxiv.org/abs/2512.01710)]
+- [2025/12] Sophia: A Persistent Agent Framework of Artificial Life. [[paper](https://arxiv.org/abs/2512.18202)]
+- [2025/12] WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning. [[paper](https://arxiv.org/abs/2512.02425)]
+- [2025/12] From Context to EDUs: Faithful and Structured Context Compression via Elementary Discourse Unit Decomposition. [[paper](https://arxiv.org/abs/2512.14244)]
+- [2025/12] Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI. [[paper](https://arxiv.org/abs/2512.12686)]
 - [2025/12] Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects. [[paper](https://arxiv.org/abs/2512.12818)]
+- [2025/11] General Agentic Memory Via Deep Research. [[paper](https://arxiv.org/abs/2511.18423)]
 - [2025/11] O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents. [[paper](https://arxiv.org/abs/2511.13593)]
 - [2025/11] RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory. [[paper](https://doi.org/10.48550/arXiv.2508.04903)]
 - [2025/11] Enabling Personalized Long-term Interactions in LLM-based Agents through Persistent Memory and User Profiles. [[paper](https://doi.org/10.48550/arXiv.2510.07925)]
@@ -62,6 +72,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/10] CAM: A Constructivist View of Agentic Memory for LLM-Based Reading Comprehension. [[paper](https://doi.org/10.48550/arXiv.2510.05520)]
 - [2025/10] Pre-Storage Reasoning for Episodic Memory: Shifting Inference Burden to Memory for Personalized Dialogue. [[paper](https://doi.org/10.48550/arXiv.2509.10852)]
 - [2025/10] LightMem: Lightweight and Efficient Memory-Augmented Generation. [[paper](https://arxiv.org/abs/2510.18866)]
+- [2025/10] RGMem: Renormalization Group-based Memory Evolution for Language Agent User Profile. [[paper](https://arxiv.org/abs/2510.16392)]
 - [2025/09] Mem-α: Learning Memory Construction via Reinforcement Learning. [[paper](https://doi.org/10.48550/arXiv.2509.25911)]
 - [2025/09] SGMem: Sentence Graph Memory for Long-Term Conversational Agents. [[paper](https://arxiv.org/abs/2509.21212)]
 - [2025/09] Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science. [[paper](https://doi.org/10.48550/arXiv.2508.03341)]
@@ -69,6 +80,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/09] Multiple Memory Systems for Enhancing the Long-term Memory of Agent. [[paper](https://doi.org/10.48550/arXiv.2508.15294)]
 - [2025/09] Semantic Anchoring in Agentic Memory: Leveraging Linguistic Structures for Persistent Conversational Context. [[paper](https://doi.org/10.48550/arXiv.2508.12630)]
 - [2025/09] ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning. [[paper](https://doi.org/10.48550/arXiv.2508.10419)]
+- [2025/08] Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark. [[paper](https://arxiv.org/abs/2508.19005)]
 - [2025/08] Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory. [[paper](https://arxiv.org/abs/2508.09736)]
 - [2025/08] Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning. [[paper](https://arxiv.org/abs/2508.19828)]
 - [2025/08] Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory. [[paper](https://arxiv.org/abs/2508.08997)]
@@ -83,11 +95,13 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/03] In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents. [[paper](https://aclanthology.org/2025.acl-long.413/)]
 - [2025/02] SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents. [[paper](https://openreview.net/forum?id=xKDZAW0He3)]
 - [2025/02] Zep: A Temporal Knowledge Graph Architecture for Agent Memory. [[paper](https://doi.org/10.48550/arXiv.2501.13956)]
+- [2025/02] R{\({^3}\)}Mem: Bridging Memory Retention and Retrieval via Reversible Compression. [[paper](https://arxiv.org/abs/2502.15957)]
 - [2025/02] A-MEM: Agentic Memory for LLM Agents. [[paper](https://doi.org/10.48550/ARXIV.2502.12110)]
 - [2025/02] Unveiling Privacy Risks in LLM Agent Memory. [[paper](https://arxiv.org/abs/2502.13172)]
 - [2025/02] Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation. [[paper](https://doi.org/10.48550/arXiv.2502.14254)]
 - [2024/12] AI PERSONA: Towards Life-long Personalization of LLMs. [[paper](https://arxiv.org/abs/2412.13103)]
 - [2024/11] OASIS: Open Agent Social Interaction Simulations with One Million Agents. [[paper](https://arxiv.org/abs/2411.11581)]
+- [2024/10] Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension. [[paper](https://arxiv.org/abs/2411.13093)]
 - [2024/10] Memolet: Reifying the Reuse of User-AI Conversational Memories. [[paper](https://doi.org/10.1145/3654777.3676388)]
 - [2024/10] From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs. [[paper](https://arxiv.org/abs/2410.14052)]
 - [2024/10] Enhancing Long Context Performance in LLMs Through Inner Loop Query Mechanism. [[paper](https://arxiv.org/abs/2410.12859)]
@@ -124,8 +138,9 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 
 
 #### Parametric
-
+- [2025/10] MemLoRA: Distilling Expert Adapters for On-Device Memory Systems. [[paper](https://arxiv.org/abs/2512.04763)]
 - [2025/10] Pretraining with hierarchical memories: separating long-tail and common knowledge. [[paper](https://arxiv.org/abs/2510.02375)]
+- [2025/08] Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models. [[paper](https://arxiv.org/abs/2508.09874)]
 - [2025/08] MLP Memory: Language Modeling with Retriever-pretrained External Memory. [[paper](https://doi.org/10.48550/arXiv.2508.01832)]
 - [2024/10] Self-Updatable Large Language Models by Integrating Context into Model Parameters. [[paper](https://openreview.net/forum?id=aCPFCDL9QY)]
 - [2024/10] AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models. [[paper](https://arxiv.org/abs/2410.02355)]
@@ -147,11 +162,15 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/02] R3Mem: Bridging Memory Retention and Retrieval via Reversible Compression [[paper](https://arxiv.org/abs/2502.15957v1)]
 - [2024/07] Memory${}^3$: Language Modeling with Explicit Memory. [[paper](https://doi.org/10.48550/arXiv.2407.01178)]
 - [2024/03] Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning. [[paper](https://openreview.net/forum?id=LjivA1SLZ6)]
+- [2023/10] Memoria: Resolving Fateful Forgetting Problem through Human-Inspired Memory Architecture. [[paper](https://arxiv.org/abs/2310.03052)]
+
 
 ### Experiential Memory
 
 #### Token-level
-
+- [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper](https://arxiv.org/abs/2601.03192)]
+- [2025/12] MemEvolve: Meta-Evolution of Agent Memory Systems. [[paper](https://arxiv.org/abs/2512.18746)]
+- [2025/12] Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution. [[paper](https://arxiv.org/abs/2512.10696)]
 - [2025/12] Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects. [[paper](https://arxiv.org/abs/2512.12818)]
 - [2025/11] Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models. [[paper](https://doi.org/10.48550/arXiv.2510.04618)]
 - [2025/11] FLEX: Continuous Agent Evolution via Forward Learning from Experience. [[paper](https://arxiv.org/abs/2511.06449)]
@@ -212,7 +231,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Working Memory
 
 #### Token-level
-
+- [2026/01] Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. [[paper](https://arxiv.org/abs/2601.01885)]
 - [2025/11] Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks. [[paper](https://doi.org/10.48550/arXiv.2510.12635)]
 - [2025/11] IterResearch: Rethinking Long-Horizon Agents via Markovian State Reconstruction. [[paper](https://arxiv.org/abs/2511.07327)]
 - [2025/11] MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning. [[paper](https://doi.org/10.48550/arXiv.2511.02805)]
